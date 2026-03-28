@@ -93,7 +93,6 @@ Report — Dashboard shows scores, matched keywords, and missing keywords
 
 👥 Team
 Built by a team of 4 — MIT Academy of Engineering, Pune
-Mentor: Mrs. Shubhangi Kale
 Duration: March 2025 – May 2025
 
 🔮 Future Roadmap
